@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (VarEight.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  VarEight.c
+C:\CProjectLABACH\OneVar\VarEight\VarEight.c(12,13): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+C:\CProjectLABACH\OneVar\VarEight\VarEight.c(37,13): error C2198: ABC: слишком мало аргументов для вызова
+C:\CProjectLABACH\OneVar\VarEight\VarEight.c(53,4): warning C4013: figure: нет определения; предполагается "extern" с возвратом типа "int"

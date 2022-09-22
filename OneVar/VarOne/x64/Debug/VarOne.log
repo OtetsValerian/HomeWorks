@@ -1,0 +1,6 @@
+﻿  VarOne.c
+C:\CProjectLABACH\OneVar\VarOne\VarOne.c(23,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\CProjectLABACH\OneVar\VarOne\VarOne.c(24,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\CProjectLABACH\OneVar\VarOne\VarOne.c(25,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\CProjectLABACH\OneVar\VarOne\VarOne.c(28,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  VarOne.vcxproj -> C:\CProjectLABACH\OneVar\x64\Debug\VarOne.exe
